@@ -1,0 +1,118 @@
+{
+    "about": "I am an ethical hacker specializing in cybersecurity. I am skilled in penetration testing, network security, and web application security. My goal is to contribute to a safer digital world.",
+    "certificates": [
+        {
+            "title": "Ethical Hacking Essentials (EHE)",
+            "organization": "EC-Council",
+            "image": "images/.cer/42c5e3aa-9938-4568-a7a0-0152d3e91c6f.png",
+            "verifyLink": "https://codered.eccouncil.org/certificate/0010237d-64c6-4eb3-8941-8544dffef976"
+        }, 
+        
+        {
+            "title": "Network Defense Essentials (NDE)",
+            "organization": "EC-Council",
+            "image": "images/.cer/6529451a-4c89-44d8-8005-19cc28b3a4c2.png",
+            "verifyLink": "https://codered.eccouncil.org/certificate/0d2f5ecb-364a-4af9-ab00-91b14fb79e79"
+        },
+
+        {
+            "title": "Red Teaming",
+            "organization": "Tryhackme",
+            "image": "images/.cer/THM-0ZMTNB3WZK.png",
+            "verifyLink": "https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-0ZMTNB3WZK.png"
+        },
+
+            {
+            "title": "Jr Penetration Tester",
+            "organization": "Tryhackme",
+            "image": "images/.cer/THM-GJWGBJSRYQ.png",
+            "verifyLink": "https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-GJWGBJSRYQ.png"
+        },
+        
+            {
+            "title": "Advent of Cyber 2023",
+            "organization": "Tryhackme",
+            "image": "images/.cer/THM-XSHVOLFBEA.png",
+            "verifyLink": "https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-XSHVOLFBEA.png"
+        },
+           
+            {
+            "title": "OPSWAT Cybersecurity Fundamentals Associate",
+            "organization": "Tryhackme",
+            "image": "images/.cer/opswat_cybersecurity_fundamentals_associate.png",
+            "verifyLink": "https://learn.opswatacademy.com/certificate/wumUyTopzg"
+        },
+           
+            {
+            "title": "Certified in Cybersecurity",
+            "organization": "(ISC)2",
+            "image": "images/.cer/Screenshot 2024-11-05 125813.png",
+            "verifyLink": "https://www.coursera.org/account/accomplishments/specialization/PC4FTHDFZJZM"
+        },
+           
+        {
+            "title": "",
+            "organization": "",
+            "image": "images/.cer/THM-0ZMTNB3WZK.png",
+            "verifyLink": ""
+        },
+                   
+        {
+            "title": "",
+            "organization": "",
+            "image": "images/.cer/THM-0ZMTNB3WZK.png",
+            "verifyLink": ""
+        },
+                   
+        {
+            "title": "",
+            "organization": "",
+            "image": "images/.cer/THM-0ZMTNB3WZK.png",
+            "verifyLink": ""
+        },
+                   
+        {
+            "title": "",
+            "organization": "",
+            "image": "images/.cer/THM-0ZMTNB3WZK.png",
+            "verifyLink": ""
+        },
+        
+        {
+            "title": "CompTIA Security+",
+            "organization": "CompTIA",
+            "image": "https://example.com/path-to-your-certificate-image.jpg",
+            "verifyLink": "https://example.com/verify/security_plus_another"
+        }
+    ],
+    "skills": [
+        "Cybersecurity",
+        "Ethical Hacking",
+        "Network Security",
+        "Web Application Security",
+        "Python",
+        "Bash",
+        "Linux"
+    ],
+    "projects": [
+        {
+            "title": "Project 1",
+            "description": "Description of project 1.",
+            "link": "https://link-to-project-1.com"
+        },
+        {
+            "title": "Project 2",
+            "description": "Description of project 2.",
+            "link": "https://link-to-project-2.com"
+        }
+    ],
+    "contact": {
+        "email": "your-email@example.com",
+        "social": {
+            "linkedin": "https://www.linkedin.com/in/abm-mojahidul-islam-nayem",
+            "twitter": "https://twitter.com/your-twitter-handle",
+            "github": "https://github.com/your-github-username"
+        }
+    },
+    "cv": "You can find my CV at [this link](https://link-to-your-cv.pdf)."
+}

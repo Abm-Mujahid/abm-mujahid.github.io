@@ -1,0 +1,223 @@
+body {
+    font-family: 'Share Tech Mono', monospace;
+    /* Readable hacker font */
+    background-color: #0c0c0c;
+    /* Dark background */
+    color: #00ff00;
+    /* Main text color green */
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
+header {
+    background-color: #1a1a1a;
+    /* Dark header */
+    color: #00ff00;
+    /* Header text green */
+    padding: 20px 0;
+}
+
+h1,
+h2 {
+    color: #ffcc00;
+    /* Section titles yellow */
+    margin: 10px;
+    padding: 10px;
+}
+
+section {
+    padding: 20px;
+    margin: 20px auto;
+    max-width: 800px;
+    background-color: #1a1a1a;
+    /* Dark section background */
+    border: 1px solid #ff6699;
+    /* Section border pink */
+    border-radius: 8px;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+section:hover {
+    transform: scale(1.02);
+    /* Slightly enlarge on hover */
+    box-shadow: 0 0 20px rgba(0, 255, 0, 0.5);
+    /* Green glow effect */
+}
+
+.certificate {
+    display: inline-block;
+    margin: 10px;
+    text-align: center;
+}
+
+.certificate img {
+    max-width: 200px;
+    border: 1px solid #00ffcc;
+    /* Certificate border cyan */
+    border-radius: 8px;
+    margin-bottom: 5px;
+}
+
+footer {
+    background-color: #1a1a1a;
+    /* Dark footer */
+    color: #00ff00;
+    /* Footer text green */
+    padding: 10px;
+}
+
+a {
+    color: #ff9900;
+    /* Link color orange */
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+    /* Underline links on hover */
+    color: #ffcc00;
+    /* Change link color to yellow on hover */
+}
+
+nav {
+    background-color: #111;
+    /* Dark navigation bar */
+    padding: 10px 0;
+}
+
+nav ul {
+    list-style: none;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+}
+
+nav ul li {
+    margin: 0 15px;
+}
+
+nav ul li a {
+    color: #00ff00;
+    /* Navigation link color */
+    text-decoration: none;
+    font-weight: bold;
+}
+
+nav ul li a:hover {
+    text-decoration: underline;
+    /* Underline links on hover */
+    color: #ffcc00;
+    /* Change link color to yellow on hover */
+}
+
+/* Modal Styles */
+.modal {
+    display: none;
+    /* Hidden by default */
+    position: fixed;
+    /* Stay in place */
+    z-index: 1;
+    /* Sit on top */
+    left: 0;
+    top: 0;
+    width: 100%;
+    /* Full width */
+    height: 100%;
+    /* Full height */
+    overflow: auto;
+    /* Enable scroll if needed */
+    background-color: rgb(0, 0, 0);
+    /* Fallback color */
+    background-color: rgba(0, 0, 0, 0.8);
+    /* Black w/ opacity */
+}
+
+/* Modal Content */
+.modal-content {
+    background-color: #1a1a1a;
+    margin: 15% auto;
+    /* 15% from the top and centered */
+    padding: 20px;
+    border: 1px solid #ff6699;
+    width: 80%;
+    /* Could be more or less, depending on screen size */
+    text-align: center;
+}
+
+/* Loading Spinner */
+.spinner {
+    margin: 20px auto;
+    border: 8px solid #f3f3f3;
+    /* Light grey */
+    border-top: 8px solid #00ff00;
+    /* Green */
+    border-radius: 50%;
+    width: 50px;
+    height: 50px;
+    animation: spin 1s linear infinite;
+    /* Animation */
+}
+
+/* Animation for spinner */
+@keyframes spin {
+    0% {
+        transform: rotate(0deg);
+    }
+
+    100% {
+        transform: rotate(360deg);
+    }
+}
+
+/* Button Styles */
+.verify-btn {
+    background-color: #ffcc00;
+    /* Button background color */
+    color: #0c0c0c;
+    /* Button text color */
+    border: none;
+    /* Remove default border */
+    border-radius: 5px;
+    /* Rounded corners */
+    padding: 10px 15px;
+    /* Padding for the button */
+    font-size: 16px;
+    /* Font size */
+    cursor: pointer;
+    /* Change cursor to pointer */
+    transition: background-color 0.3s ease, transform 0.3s ease;
+    /* Smooth transitions */
+}
+
+.verify-btn:hover {
+    background-color: #ffd700;
+    /* Lighter shade on hover */
+    transform: scale(1.05);
+    /* Slightly enlarge the button */
+}
+
+/* Responsive Styles */
+@media (max-width: 768px) {
+    nav ul {
+        flex-direction: column;
+        /* Stack nav items on smaller screens */
+    }
+
+    section {
+        padding: 15px;
+        margin: 15px;
+    }
+
+    .certificate img {
+        max-width: 150px;
+        /* Adjust certificate image size for smaller screens */
+    }
+
+    .spinner {
+        width: 40px;
+        /* Smaller spinner size */
+        height: 40px;
+        /* Smaller spinner size */
+    }
+}
