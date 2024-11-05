@@ -1,5 +1,5 @@
 {
-    "about": "I am an ethical hacker specializing in cybersecurity. I am skilled in penetration testing, network security, and web application security. My goal is to contribute to a safer digital world.",
+    "about": "Abm Mojahidul Islam Nayem is a dedicated ethical hacker and cybersecurity enthusiast committed to protecting digital environments. With a passion for ethical hacking, he actively engages in the cybersecurity community by participating in Capture The Flag (CTF) competitions and creating educational content to share valuable insights. Abm Mujahid mission is to empower organizations and individuals by identifying cybersecurity vulnerabilities and fostering awareness about best practices. Through his continuous learning journey, he aims to contribute to a safer digital landscape and inspire others to embrace ethical hacking.",
     "certificates": [
         {
             "title": "Ethical Hacking Essentials (EHE)",
@@ -51,38 +51,80 @@
         },
            
         {
-            "title": "",
-            "organization": "",
-            "image": "./images/THM-0ZMTNB3WZK.png",
-            "verifyLink": ""
+            "title": "Endpoint Security",
+            "organization": "Cisco",
+            "image": "./images/Screenshot 2024-11-05 230130.png",
+            "verifyLink": "https://www.credly.com/badges/c7dc4fe7-1b05-440f-9242-c83220b24080/public_url"
+        },
+                        
+        {
+            "title": "Ethical Hacker",
+            "organization": "Cisco",
+            "image": "./images/Screenshot 2024-11-05 230518.png",
+            "verifyLink": "https://www.credly.com/earner/earned/badge/6930e614-a5bf-48b8-9b42-9263545d234a"
         },
                    
         {
-            "title": "",
-            "organization": "",
-            "image": "./images/THM-0ZMTNB3WZK.png",
-            "verifyLink": ""
-        },
-                   
-        {
-            "title": "",
-            "organization": "",
-            "image": "./images/THM-0ZMTNB3WZK.png",
-            "verifyLink": ""
-        },
-                   
-        {
-            "title": "",
-            "organization": "",
-            "image": "./images/THM-0ZMTNB3WZK.png",
-            "verifyLink": ""
-        },
+            "title": "Cyber Threat Management",
+            "organization": "Cisco",
+            "image": "./images/Screenshot 2024-11-05 230906.png",
+            "verifyLink": "https://www.credly.com/earner/earned/badge/8f3b7c98-094c-410b-995d-71f1218d05ee"
+        }, 
         
         {
-            "title": "CompTIA Security+",
-            "organization": "CompTIA",
-            "image": "https://example.com/path-to-your-certificate-image.jpg",
-            "verifyLink": "https://example.com/verify/security_plus_another"
+            "title": "Google Cybersecurity",
+            "organization": "Google",
+            "image": "./images/Screenshot 2024-11-05 231512.png",
+            "verifyLink": "https://www.coursera.org/account/accomplishments/specialization/7L6PG4ADZ3R9"
+        },
+        
+        
+        {
+            "title": "Vulnerability Management",
+            "organization": "Security Blue Team",
+            "image": "./images/Screenshot 2024-11-05 231733.png",
+            "verifyLink": "#"
+        },
+
+        {
+                "title": "Problem Solving (Intermediate)",
+                "organization": "HackerRank",
+                "image": "./images/download.png",
+                "verifyLink": "https://www.hackerrank.com/certificates/6a49f06f2a2f"
+        },
+         
+         
+        {
+               "title": "C# (Basic)",
+                "organization": "HackerRank",
+                "image": "./images/hackerrank_one.png",
+                "verifyLink": "https://www.hackerrank.com/certificates/449b698ae5c8"
+        },
+
+            {
+                "title": "Problem Solving (Intermediate)",
+                "organization": "HackerRank",
+                "image": "./images/download _new.png",
+                "verifyLink": "https://www.hackerrank.com/certificates/6a49f06f2a2f"
+            },
+          {
+            "title": "Introduction to Cryptography",
+            "organization": "Great Learning",
+            "image": "./images/Abm_Mojahidul_Islam_Nayem20230301-64-7blguq.jpg",
+            "verifyLink": "https://www.mygreatlearning.com/certificate/WYRLVZWX"
+        },
+            {
+                "title": "Google Cybersecurity Certificate",
+                "organization": "Google",
+                "image": "./images/Screenshot 2024-11-05 225327.png",
+                "verifyLink": "https://www.credly.com/badges/daab547b-13b9-4528-8fe3-9aa4cd645337/"
+            },
+        
+        {
+            "title": "Cloud Computing",
+            "organization": "Great Learning",
+            "image": "./images/Abm_Mojahidul_Islam_Nayem20230302-64-1yo1lnj.jpg",
+            "verifyLink": "https://www.mygreatlearning.com/certificate/PLMGOPPK"
         }
     ],
     "skills": [
