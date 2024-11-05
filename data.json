@@ -18,63 +18,63 @@
         {
             "title": "Red Teaming",
             "organization": "Tryhackme",
-            "image": "images/THM-0ZMTNB3WZK.png",
+            "image": "./images/THM-0ZMTNB3WZK.png",
             "verifyLink": "https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-0ZMTNB3WZK.png"
         },
 
             {
             "title": "Jr Penetration Tester",
             "organization": "Tryhackme",
-            "image": "images/THM-GJWGBJSRYQ.png",
+            "image": "./images/THM-GJWGBJSRYQ.png",
             "verifyLink": "https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-GJWGBJSRYQ.png"
         },
         
             {
             "title": "Advent of Cyber 2023",
             "organization": "Tryhackme",
-            "image": "images/THM-XSHVOLFBEA.png",
+            "image": "./images/THM-XSHVOLFBEA.png",
             "verifyLink": "https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-XSHVOLFBEA.png"
         },
            
             {
             "title": "OPSWAT Cybersecurity Fundamentals Associate",
             "organization": "Tryhackme",
-            "image": "images/opswat_cybersecurity_fundamentals_associate.png",
+            "image": "./images/opswat_cybersecurity_fundamentals_associate.png",
             "verifyLink": "https://learn.opswatacademy.com/certificate/wumUyTopzg"
         },
            
             {
             "title": "Certified in Cybersecurity",
             "organization": "(ISC)2",
-            "image": "images/Screenshot 2024-11-05 125813.png",
+            "image": "./images/Screenshot 2024-11-05 125813.png",
             "verifyLink": "https://www.coursera.org/account/accomplishments/specialization/PC4FTHDFZJZM"
         },
            
         {
             "title": "",
             "organization": "",
-            "image": "images/THM-0ZMTNB3WZK.png",
+            "image": "./images/THM-0ZMTNB3WZK.png",
             "verifyLink": ""
         },
                    
         {
             "title": "",
             "organization": "",
-            "image": "images/THM-0ZMTNB3WZK.png",
+            "image": "./images/THM-0ZMTNB3WZK.png",
             "verifyLink": ""
         },
                    
         {
             "title": "",
             "organization": "",
-            "image": "images/THM-0ZMTNB3WZK.png",
+            "image": "./images/THM-0ZMTNB3WZK.png",
             "verifyLink": ""
         },
                    
         {
             "title": "",
             "organization": "",
-            "image": "images/THM-0ZMTNB3WZK.png",
+            "image": "./images/THM-0ZMTNB3WZK.png",
             "verifyLink": ""
         },
         

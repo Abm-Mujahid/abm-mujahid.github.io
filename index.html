@@ -7,7 +7,7 @@
     <meta name="description"
         content="Abm Mojahidul Islam Nayem's portfolio showcasing certificates, achievements, and skills in cybersecurity.">
     <meta name="keywords"
-        content="Abm Mojahidul Islam Nayem, abm mujahid, abmmujahid, cybersecurity, ethical hacking, portfolio, certificates, skills, projects">
+        content="Abm Mojahidul Islam Nayem, cybersecurity, ethical hacking, portfolio, certificates, skills, projects">
     <meta name="author" content="Abm Mojahidul Islam Nayem">
     <meta name="robots" content="index, follow">
     <link rel="icon" href="images/favicon.png" type="image/png">
@@ -53,10 +53,17 @@
         <p id="about-content">Loading...</p>
     </section>
 
-    <section id="certifications">
-        <h2>Certificates</h2>
-        <div id="certificates"></div>
-    </section>
+<section id="certifications">
+    <h2>Certificates</h2>
+    <div id="certificate-slideshow" class="slideshow-container">
+        <!-- Slides will be inserted here by JavaScript -->
+    </div>
+    <button id="viewAllBtn" onclick="toggleViewAll()">View All</button>
+    <div id="all-certificates" class="grid-container" style="display: none;">
+        <!-- All certificates will be shown here when "View All" is clicked -->
+    </div>
+</section>
+
 
     <section id="projects">
         <h2>Projects</h2>
