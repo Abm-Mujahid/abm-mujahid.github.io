@@ -6,22 +6,22 @@
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://abm-mujahid.github.io#about</loc>  <!-- Replace with your actual About page URL -->
+    <loc>https://abm-mujahid.github.io/#about</loc>  <!-- Replace with your actual About page URL -->
     <lastmod>2024-11-05</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://abm-mujahid.github.io#certifications</loc>  <!-- Replace with your actual Certifications page URL -->
+    <loc>https://abm-mujahid.github.io/#certifications</loc>  <!-- Replace with your actual Certifications page URL -->
     <lastmod>2024-11-05</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://abm-mujahid.github.io#projects</loc>  <!-- Replace with your actual Projects page URL -->
+    <loc>https://abm-mujahid.github.io/#projects</loc>  <!-- Replace with your actual Projects page URL -->
     <lastmod>2024-11-05</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://abm-mujahid.github.io#contact</loc>  <!-- Replace with your actual Contact page URL -->
+    <loc>https://abm-mujahid.github.io/#contact</loc>  <!-- Replace with your actual Contact page URL -->
     <lastmod>2024-11-05</lastmod>
     <priority>0.8</priority>
   </url>
