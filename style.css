@@ -32,7 +32,7 @@ section {
     max-width: 800px;
     background-color: #1a1a1a;
     /* Dark section background */
-    border: 1px solid #ff6699;
+    border: 1px solid #ffa514;
     /* Section border pink */
     border-radius: 8px;
     transition: transform 0.3s ease, box-shadow 0.3s ease;
@@ -45,6 +45,22 @@ section:hover {
     /* Green glow effect */
 }
 
+
+.profile-pic {
+    width: 150px;
+    /* Adjust the size as needed */
+    height: 150px;
+    /* Ensures the image is a perfect circle */
+    border-radius: 50%;
+    /* Makes the image round */
+    display: block;
+    /* Centers the image within its container */
+    margin: 10px auto;
+    object-fit: cover;
+    /* Ensures the image scales nicely within the circle */
+    border: 2px solid #00ff15;
+    /* Optional: adds a border for a hacking-themed look */
+}
 .certificate {
     display: inline-block;
     margin: 10px;

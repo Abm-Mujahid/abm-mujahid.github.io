@@ -95,10 +95,11 @@ function populateProjects(projects) {
 function populateContactSection(contact) {
     const contactContent = document.getElementById('contact-content');
     contactContent.innerHTML = `
-        <p>Email: <a href="mailto:${contact.email}">${contact.email}</a></p>
         <p>LinkedIn: <a href="${contact.social.linkedin}" target="_blank">LinkedIn</a></p>
-        <p>Twitter: <a href="${contact.social.twitter}" target="_blank">Twitter</a></p>
-        <p>GitHub: <a href="${contact.social.github}" target="_blank">GitHub</a></p>
+        <p>Instagram: <a href="${contact.social.instagram}" target="_blank">Abm Mujahid</a></p>
+        <p>GitHub: <a href="${contact.social.github}" target="_blank">BD8KR3M</a></p>
+        <p>YouTube: <a href="${contact.social.youtube}" target="_blank">ABM MUJAHID</a></p>
+         <p>Email: <a href="mailto:${contact.email}">${contact.email}</a></p>
     `;
 }
 
