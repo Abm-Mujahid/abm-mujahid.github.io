@@ -1,0 +1,11 @@
+# Allow all crawlers to access the site
+User-agent: *
+Disallow:
+
+# Block unnecessary GitHub system files
+Disallow: /README.md
+Disallow: /LICENSE
+Disallow: /CNAME
+
+# Declare the sitemap for better indexing
+Sitemap: https://abm-mujahid.github.io/sitemap.xml
